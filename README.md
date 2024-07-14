@@ -22,6 +22,8 @@ Meu objetivo atual é ingressar em uma oportuniade como Trainee ou Júnior.
 <br>
 </p>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6693d39e298168c109e9df96?variant=dark&roadmaps=sql%2Cdata-analyst)](https://roadmap.sh)
+
 ###
 
 <h2 align="left">Tenho facilidade com</h2>
